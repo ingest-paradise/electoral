@@ -19,7 +19,7 @@ All the software developed will be Open Source.
 * News
 * Other social networks
 
-Issue #1
+https://github.com/ingest-paradise/electoral/issues/1
 
 ## Data Processing
 
