@@ -2,16 +2,16 @@
 
 The goal of this project is to implement a Proof of Concept (PoC)
 for an analytics project to predict the Spanish 2019 Local Elections
-results for the Madrid city.
+results for the City Council of Madrid. 
 
-https://en.wikipedia.org/wiki/2019_Spanish_local_elections
+https://en.wikipedia.org/wiki/2019_Madrid_City_Council_election
 
 This is a work in progress and it will be updated until the elections.
 A lot of "will be" yet in the project. Stay tuned!
 
 All the software developed will be Open Source.
 
-## Data Sources
+## Data Sources #1
 
 * Twitter
 * Opinion polls
