@@ -1,2 +1,9 @@
 *.class
 *.log
+
+*.log
+.idea/*
+!.idea/runConfigurations/
+electoral.iml
+
+target
