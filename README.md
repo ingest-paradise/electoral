@@ -11,7 +11,7 @@ A lot of "will be" yet in the project. Stay tuned!
 
 All the software developed will be Open Source.
 
-## Data Sources #1
+## Data Sources
 
 * Twitter
 * Opinion polls
@@ -19,6 +19,7 @@ All the software developed will be Open Source.
 * News
 * Other social networks
 
+Issue #1
 
 ## Data Processing
 
