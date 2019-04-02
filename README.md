@@ -24,7 +24,7 @@ https://github.com/ingest-paradise/electoral/issues/1
 ## Data Processing
 
 The data will be collected using specific extractors and they will
-added to Spark Streaming in order to process them.
+added to Structured Streaming in order to process them.
 
 ## Data Analysis
 
