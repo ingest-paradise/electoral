@@ -22,6 +22,7 @@ object ElectoralApp {
 
     println("orig count = " + colCount)
     println("sampled count = " + smpCount)
+    println("test")
   }
 
 }
